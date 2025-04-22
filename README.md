@@ -6,6 +6,19 @@
 
 Tenho um carinho especial pelo universo do design de interfaces e da experiência do usuário (UI/UX). Gosto de entender como as pessoas interagem com produtos digitais e pensar em formas criativas de tornar essas experiências mais intuitivas, bonitas e funcionais. Também sou entusiasta de impressão 3D, onde consigo unir criatividade e técnica para transformar ideias em objetos físicos em um hobby que me conecta com o lado mais “maker” da tecnologia.  </p> 
 <p>📍 Localização: Brasil/RS.</p>
+
+<p>
+  <a target="_blank" href="https://dev.to/brunocaceres.tech" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=0A0A0A" alt="brunocaceres.tech" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/brunocaceress/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="Linkedin" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/brunocaceress" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt="Instagram" />
+  </a>
+</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BCaceress&show_icons=true&locale=en&layout=compact" alt="BCaceress" /></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -29,8 +42,5 @@ Tenho um carinho especial pelo universo do design de interfaces e da experiênci
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/brunocaceres.tech" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/brunocaceress/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/brunocaceress" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BCaceress&show_icons=true&locale=en&layout=compact" alt="BCaceress" /></p>
+
+
