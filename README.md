@@ -11,7 +11,6 @@ Tenho um carinho especial pelo universo do design de interfaces e da experiênci
 <a href="https://brunocaceres.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Meu%20Portfólio-5D3FD3?style=for-the-badge&logo=globe&logoColor=white" alt="Meu Portfólio"/></a>
   <a href="https://linkedin.com/in/brunocaceress" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/brunocaceress" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>"/></a>
 </p>
 <p><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCaceress&layout=compact&langs_count=8&theme=omni&hide_border=true&bg_color=0D1117&title_color=5D3FD3&text_color=FFFFFF&icon_color=5D3FD3"/></p>
 <h2>🚀 Linguages e Tecnologias</h2>
