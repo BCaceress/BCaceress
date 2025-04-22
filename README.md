@@ -8,14 +8,17 @@ Tenho um carinho especial pelo universo do design de interfaces e da experiênci
 <p>📍 Localização: Brasil/RS.</p>
 
 <p>
-  <a target="_blank" href="https://dev.to/brunocaceres.tech" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=0A0A0A" alt="brunocaceres.tech" />
+  <a target="_blank" href="https://dev.to/brunocaceres" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/brunocaceres.tech-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brunocaceres.tech" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/brunocaceress/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a target="_blank" href="https://www.instagram.com/brunocaceress" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a target="_blank" href="https://brunocaceres.tech" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/brunocaceres.tech-5D3FD3?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1E90FF" alt="Website" />
   </a>
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BCaceress&show_icons=true&locale=en&layout=compact" alt="BCaceress" /></p>
