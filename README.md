@@ -8,15 +8,9 @@ Tenho um carinho especial pelo universo do design de interfaces e da experiênci
 <p>📍 Localização: Brasil/RS.</p>
 
 <p align="center">
-  <a href="https://brunocaceres.tech" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-1E90FF.svg?&style=flat-square&logo=globe&logoColor=white&color=5D3FD3" alt="Website" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/brunocaceress/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-  </a>
-  <a href="https://www.instagram.com/brunocaceress" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28" />
-  </a>
+ <a href="https://brunocaceres.tech" target="_blank"><img src="https://img.shields.io/badge/-Website-5D3FD3?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>
+  <a href="https://linkedin.com/in/brunocaceress" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/brunocaceress" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BCaceress&show_icons=true&locale=en&layout=compact" alt="BCaceress" /></p>
 <h2>🚀 Linguages e Tecnologias</h2>
