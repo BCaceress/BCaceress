@@ -7,18 +7,16 @@
 Tenho um carinho especial pelo universo do design de interfaces e da experiência do usuário (UI/UX). Gosto de entender como as pessoas interagem com produtos digitais e pensar em formas criativas de tornar essas experiências mais intuitivas, bonitas e funcionais. Também sou entusiasta de impressão 3D, onde consigo unir criatividade e técnica para transformar ideias em objetos físicos em um hobby que me conecta com o lado mais “maker” da tecnologia.  </p> 
 <p>📍 Localização: Brasil/RS.</p>
 
-<p>
-  <a target="_blank" href="https://dev.to/brunocaceres" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/brunocaceres.tech-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brunocaceres.tech" />
+<p align="center">
+  <a target="_blank" href="https://brunocaceres.tech" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/brunocaceres.tech-5D3FD3?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1E90FF" alt="Website" height="35" />
   </a>
+  <br><br>
   <a target="_blank" href="https://www.linkedin.com/in/brunocaceress/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://www.instagram.com/brunocaceress" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a target="_blank" href="https://brunocaceres.tech" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/brunocaceres.tech-5D3FD3?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1E90FF" alt="Website" />
   </a>
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BCaceress&show_icons=true&locale=en&layout=compact" alt="BCaceress" /></p>
