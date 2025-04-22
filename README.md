@@ -25,20 +25,35 @@ Tenho um carinho especial pelo universo do design de interfaces e da experiênci
 <h2>🚀 Linguages e Tecnologias</h2>
 Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,tailwind,bootstrap,css,html,sass" alt="Front-end Technologies" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" alt="Vue.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="40" height="40"/>
 </p>
 Back-end & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,mysql,postgres" alt="Back-end Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </p>
 Mobile & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,aws,firebase" alt="Mobile & Cloud Technologies" />
+  <img src="https://reactnative.dev/img/header_logo.svg" title="React Native" alt="React Native" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" alt="AWS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" width="40" height="40"/>
 </p>
 DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,docker" alt="Development Tools" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js" alt="Chart.js" width="40" height="40"/>
 </p>
-
