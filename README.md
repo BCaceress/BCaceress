@@ -1,6 +1,6 @@
-<h1>Hello World!, I'm Bruno Caceres, a Brazilian full stack and mobile developer.👋</h1>
-<p>🎓 Formação: Bacharel em Sistemas para Internet (Feevale). </p> 
-<p>🎓 Pós-Graduação: Atualmente em Full Stack Development. </p> 
+<h1>Hello World!, Sou Bruno Caceres, um desenvolvedor full stack e mobile. 👋</h1>
+<p>🎓 Formação: Graduado em Sistemas para Internet (Universidade Feevale - 2018). </p> 
+<p>🎓 Pós-Graduação: Atualmente em Full Stack Development (2024). </p> 
 <p>💼 Atuação: Desenvolvedor Full Stack & Mobile apaixonado por clean code, UX e performance.  </p> 
 <p>📍 Localização: Brasil/RS.</p>
 <h2>🚀 Languages and Tools I Use</h2>
