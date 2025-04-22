@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruno Caceres
 
-**`Desenvolvedor FullStack e Mobile`**
+**`Desenvolvedor Full Stack e Mobile`**
 
 <p>Olá, sou Bruno Caceres, tenho 29 anos, sou graduado em Sistemas para Internet pela Universidade Feevale e atualmente estou cursando pós-graduação em Full Stack. A tecnologia sempre foi uma paixão na minha vida algo que me inspira diariamente a buscar conhecimento e evolução constante.
 
