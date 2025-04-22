@@ -1,7 +1,10 @@
-<h1>Hello World!, Sou Bruno Caceres, um desenvolvedor full stack e mobile. 👋</h1>
-<p>🎓 Formação: Graduado em Sistemas para Internet (Universidade Feevale - 2018). </p> 
-<p>🎓 Pós-Graduação: Atualmente em Full Stack Development (2024). </p> 
-<p>💼 Atuação: Desenvolvedor Full Stack & Mobile apaixonado por clean code, UX e performance.  </p> 
+# 👩🏻‍💻 Larissa Kich
+
+**`Desenvolvedor FullStack e Mobile`**
+
+<p>Olá, sou Bruno Caceres, tenho 29 anos, sou graduado em Sistemas para Internet pela Universidade Feevale e atualmente estou cursando pós-graduação em Full Stack. A tecnologia sempre foi uma paixão na minha vida algo que me inspira diariamente a buscar conhecimento e evolução constante.
+
+Tenho um carinho especial pelo universo do design de interfaces e da experiência do usuário (UI/UX). Gosto de entender como as pessoas interagem com produtos digitais e pensar em formas criativas de tornar essas experiências mais intuitivas, bonitas e funcionais. Também sou entusiasta de impressão 3D, onde consigo unir criatividade e técnica para transformar ideias em objetos físicos em um hobby que me conecta com o lado mais “maker” da tecnologia.  </p> 
 <p>📍 Localização: Brasil/RS.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
