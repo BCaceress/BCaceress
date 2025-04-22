@@ -28,6 +28,7 @@ Front-end
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" alt="Vue.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
