@@ -12,7 +12,7 @@ Tenho um carinho especial pelo universo do design de interfaces e da experiênci
     <img src="https://img.shields.io/badge/brunocaceres.tech-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brunocaceres.tech" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/brunocaceress/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinlogo&logoColor=white" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://www.instagram.com/brunocaceress" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
