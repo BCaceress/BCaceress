@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou o Bruno Caceres! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+Hi, I'm Bruno Caceres! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 **`Desenvolvedor Full Stack e Mobile`**
